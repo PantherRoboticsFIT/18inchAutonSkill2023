@@ -1,5 +1,4 @@
-/.mk
 /.vscode
 /bin
 /build
-compile_commands.jsonS
+compile_commands.json
